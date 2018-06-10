@@ -1,7 +1,7 @@
 package com.nt.git;
 
 public class MyMath {
-	public String Sum() {
+	public String sum() {
 		return "";
 		//samer is a,a good boy he aal rhe thimngs
 //		alff bjdy  cch nmhckh cmhkb  
